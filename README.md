@@ -9,3 +9,5 @@ Some facts about me:
   - I consider myself a creative, having worked on songwriting, album artwork, photography, and styling
   - I'm a huge sports and sports-stats fan
   - My goals for the rest of 2025: land my dream job as a Business Analyst and personally grow as an individual
+
+You can view my resume <a href='https://docs.google.com/document/d/1wLe1W0Z82tIVJbcT1ncnj5cQjWzqfjT-naVN_cWRc1g/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
