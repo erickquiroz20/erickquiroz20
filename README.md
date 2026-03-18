@@ -13,6 +13,7 @@ I'm Erick, aspiring business analyst having just completed the TripleTen Busines
 - Business analytics
 
 📊 Projects
+
 🔹 **Restaurant Performance Analysis**  
 Analyzed multi-source datasets to uncover sales trends, pricing insights, and category performance.
 
