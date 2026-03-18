@@ -16,7 +16,7 @@ I'm Erick, aspiring business analyst having just completed the TripleTen Busines
 ## 📁 Projects
 
 ### 📊 Restaurant Performance Analysis  
-👉 [View Project](./restaurant-performance-analysis)  
+👉 [View Project](./restaurant-performance-analysis) 
 Analyzed restaurant sales and pricing segmentation to identify revenue patterns and performance gaps.
 
 ---
