@@ -12,16 +12,24 @@ I'm Erick, aspiring business analyst having just completed the TripleTen Busines
 - Data visualization
 - Business analytics
 
-📊 Projects
 
-🔹 **Restaurant Performance Analysis**  
-Analyzed multi-source datasets to uncover sales trends, pricing insights, and category performance.
+## 📁 Projects
 
-🔹 **Sales Dashboard (Tableau / Power BI)**  
-Built dashboards to track KPIs such as revenue, order volume, and return rates.
+### 📊 Restaurant Performance Analysis  
+👉 [View Project](./restaurant-performance-analysis)  
+Analyzed restaurant sales and pricing segmentation to identify revenue patterns and performance gaps.
 
-🔹 **SQL Data Analysis Projects**  
-Queried and analyzed structured datasets to answer business questions
+---
+
+### 📈 Sales & KPI Dashboard  
+👉 [View Project](./sales-kpi-dashboard)  
+Built interactive dashboards to track revenue, order volume, and return rates.
+
+---
+
+### 🧠 SQL Data Analysis  
+👉 [View Project](./sql-data-analysis)  
+Used SQL to extract, transform, and analyze structured data for business insights.
 
 Some facts about me:
   - I enjoy troubleshooting, keeps me from being bored
