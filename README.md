@@ -3,7 +3,24 @@ I'm Erick, aspiring business analyst having just completed the TripleTen Busines
 - Data analysis
 - Business intelligence
 - Data visualization
-- Now, I'm eager to apply my data analysis and visualization skills in a role where I can contribute, grow, and make a meaningful impact.
+
+🛠️ Skills
+- SQL (data extraction, joins, aggregations)
+- Excel / Google Sheets (data cleaning, pivot tables)
+- Tableau
+- Power BI
+- Data visualization
+- Business analytics
+
+📊 Projects
+🔹 **Restaurant Performance Analysis**  
+Analyzed multi-source datasets to uncover sales trends, pricing insights, and category performance.
+
+🔹 **Sales Dashboard (Tableau / Power BI)**  
+Built dashboards to track KPIs such as revenue, order volume, and return rates.
+
+🔹 **SQL Data Analysis Projects**  
+Queried and analyzed structured datasets to answer business questions
 
 Some facts about me:
   - I enjoy troubleshooting, keeps me from being bored
@@ -11,5 +28,9 @@ Some facts about me:
   - I consider myself a creative, having worked on songwriting, album artwork, photography, and styling
   - I'm a huge sports and sports-stats fan
   - My goals for 2026: land my dream job as a Business Analyst and personally grow as an individual
+
+📫 Contact Me
+- LinkedIn: ()
+- Email: erick.q089@gmail.com
 
 You can view my resume <a href='https://docs.google.com/document/d/1wLe1W0Z82tIVJbcT1ncnj5cQjWzqfjT-naVN_cWRc1g/edit?usp=sharing ' target=_blank><u>here</u>.</a></p>
